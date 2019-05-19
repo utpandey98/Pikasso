@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/clear_scrId"
+        android:title="@string/clearScreen"
+        android:icon="@drawable/cross_outline_clear_black_18dp"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/saveId"
+        android:icon="@drawable/save_outline_save_black_18dp"
+        android:title="@string/save"
+        android:visible="true"
+        app:showAsAction="ifRoom|collapseActionView" />
+    <item
+        android:id="@+id/colorid"
+        android:checkable="false"
+        android:icon="@drawable/color_palette_outline_color_lens_black_18dp"
+        android:title="@string/color"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/lineWidth"
+        android:icon="@drawable/brush_width_outline_edit_black_18dp"
+        android:title="@string/ChangeSize"
+        android:visible="true" />
+    <item
+        android:id="@+id/eraseId"
+        android:icon="@drawable/double_sided_eraser"
+        android:title="@string/erase"
+        app:showAsAction="always" />
+</menu>

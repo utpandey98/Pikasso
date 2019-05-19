@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pikasso</string>
+    <string name="color">Color</string>
+    <string name="ChangeSize">Brush Width</string>
+    <string name="lineWidth">Line Width</string>
+    <string name="clearScreen">Clear Screen</string>
+    <string name="erase">Erase</string>
+    <string name="enterStrokeWidth">Enter Stroke Width</string>
+    <string name="enterAValue">Stroke Width</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="set_width">Set Width</string>
+    <string name="label_alpha">Alpha</string>
+    <string name="label_red">Red</string>
+    <string name="label_green">Green</string>
+    <string name="label_blue">Blue</string>
+    <string name="set_color">Set Color</string>
+    <string name="save">Save</string>
+</resources>
