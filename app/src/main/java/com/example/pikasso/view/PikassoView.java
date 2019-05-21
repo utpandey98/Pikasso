@@ -223,6 +223,7 @@ public class PikassoView extends View {
         }
     }
 
+
     public void setDrawingColor(int color) {
         paintLine.setColor(color);
     }
